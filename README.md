@@ -66,6 +66,7 @@ The Brie Carre Pizza should be taken off the menu it has the least sales of abou
 ![](least_perform.png)
 
 ## Visualization
+You can interact with the report [here](https://app.powerbi.com/groups/835d2acb-e740-4b27-b347-59f56bd1a269/reports/04901254-fc69-4d3a-8fc7-719561ecb701/ReportSectiond43bbe951727259c7adc)
 
 ![](pizza_sales_report.png)
 
